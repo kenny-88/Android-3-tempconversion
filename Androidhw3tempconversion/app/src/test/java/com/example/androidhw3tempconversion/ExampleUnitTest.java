@@ -1,4 +1,4 @@
-package com.example.android_3_tempconversion;
+package com.example.androidhw3tempconversion;
 
 import org.junit.Test;
 

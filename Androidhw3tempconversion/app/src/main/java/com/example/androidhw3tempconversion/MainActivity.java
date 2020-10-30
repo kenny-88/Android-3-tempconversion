@@ -1,4 +1,4 @@
-package com.example.temperatureconversion;
+package com.example.androidhw3tempconversion;
 
 import androidx.appcompat.app.AppCompatActivity;
 
